@@ -1,0 +1,10 @@
+﻿  boss1.cpp
+  blackportal.cpp
+  bg.cpp
+  コードを生成中...
+  コンパイル中...
+  main.cpp
+c:\users\panzehong\documents\visual studio 2015\projects\moe\main.cpp(861): warning C4101: 'str': ローカル変数は 1 度も使われていません。
+  コードを生成中...
+  MOE.vcxproj -> C:\Users\panzehong\Documents\Visual Studio 2015\Projects\MOE\Debug\MOE.exe
+  MOE.vcxproj -> C:\Users\panzehong\Documents\Visual Studio 2015\Projects\MOE\Debug\MOE.pdb (Full PDB)
